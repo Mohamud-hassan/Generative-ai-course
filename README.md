@@ -1,2 +1,3 @@
-# Generative-ai-course
-From GPT to multimodal systems — practical projects, tutorials, and a hackathon in Generative AI.
+# OUK-BCS Generative AI Course
+Generative AI: From GPT to multimodal systems. Learn through projects, tutorials, and a hackathon.
+
